@@ -1,5 +1,5 @@
-Change index.md and build the html like
+If you want to add your own:
 
-```bash
-pandoc --css=styling.css -V lang=en -V highlighting-css= --mathjax -s -f markdown+smart --toc --metadata --to=html5 index.md -o index.html
-```
+1. Fork the repository
+2. Add your changes
+3. Create a Pull Request
