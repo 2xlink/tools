@@ -335,3 +335,53 @@ figcaption {
 .footnotes li p:last-child a:last-child {
     border-bottom: none;
 }
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #111;
+        color: #f8f8f8;
+    }
+
+    header {
+        border-bottom: 1px solid #444;
+    }
+
+    hr {
+        border-top: 1px solid #444;
+    }
+
+    blockquote, dd {
+        border-left: 0.35em #444 solid;
+    }
+
+    ul, ol {
+        color: #f8f8f8;
+    }
+
+    a, a:link, a:visited, a:hover {
+        color: #f8f8f8;
+        border-bottom: 1px dashed #f8f8f8;
+    }
+
+    code {
+        background-color: #333;
+        border: 1px solid #444;
+    }
+
+    figure {
+        background-color: #222;
+        border: 1px solid #444;
+    }
+
+    tr.odd {
+        background-color: #222;
+    }
+
+    tr.even {
+        background-color: #333;
+    }
+
+    .footnotes {
+        color: #ccc;
+    }
+}
