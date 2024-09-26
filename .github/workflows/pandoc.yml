@@ -1,0 +1,25 @@
+name: Build HTML from Markdown
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [closed]  # Trigger on merged pull requests
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
+      - name: Generate HTML from Markdown
+        run: |
+          pandoc --css=styling.css -V lang=en -V highlighting-css= --mathjax -s -f markdown+smart --toc --metadata --to=html5 index.md -o index.html
