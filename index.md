@@ -2,8 +2,6 @@
 title: ultra situational tools
 ...
 
-# ultra situational tools
-
 ## Travel
 
 ### Deutsche Bahn (DB)

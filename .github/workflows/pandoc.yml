@@ -22,7 +22,7 @@ jobs:
 
       - name: Generate HTML from Markdown
         run: |
-          pandoc --css=styling.css -V lang=en -V highlighting-css= --mathjax -s -f markdown+smart --toc --metadata --to=html5 index.md -o index.html
+          pandoc --css=styling.css -V lang=en -V highlighting-css= --mathjax -s -f markdown+smart --metadata --to=html5 index.md -o index.html
 
       - name: Commit and push generated HTML
         run: |
