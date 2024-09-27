@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    types: [closed]  # Trigger on merged pull requests
 
 jobs:
   build:
