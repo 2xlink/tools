@@ -17,7 +17,23 @@ title: ultra situational tools
 
 - [thistothat](https://www.thistothat.com/) - Find the best glue for connecting two different materials.
 
+## Entertainment
+
+### Music
+
+- [Who-Sampled](https://www.whosampled.com/) - Find out where that beat or riff in a song came from—i.e., who sampled whom.
+
+### Movies
+
+- [Where's the jump](https://wheresthejump.com/) - Tells you exactly when jump scares happen in horror movies.
+- [RunPee](https://runpee.com/) - Best times to take bathroom breaks during a movie.
+- [Does the dog die?](https://www.doesthedogdie.com/) - Trigger warnings for movies, TV, books, video games and more!
+
+## Vital Information
+
+- [howmanypeopleareinspacerightnow](https://www.howmanypeopleareinspacerightnow.com/) - See how many astronauts are currently in space.
+- [is it christmas today?](https://isitchristmas.com/) - find out if it's Christmas today.
+
 ---
 
 Add your own: [GitHub - 2xlink/tools](https://github.com/2xlink/tools) (create a MR)
-
