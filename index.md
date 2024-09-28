@@ -16,7 +16,6 @@ title: ultra situational tools
 ## Crafts
 
 - [thistothat](https://www.thistothat.com/) - Find the best glue for connecting two different materials.
-- [Celebrity Perv Apology Generator](https://apologygenerator.com/) - You are a Celebrity Perv and need to apologize publicly?
 - [Animated Knots by Grog](https://www.animatedknots.com/) - Learn how to tie specific knots with step-by-step animation.
 
 ## Entertainment
@@ -45,6 +44,7 @@ title: ultra situational tools
 
 - [Bilingual baby name finder](https://mixedname.com/)
 - [Busy Simulator](https://busysimulator.com/)
+- [Celebrity Perv Apology Generator](https://apologygenerator.com/) - You are a Celebrity Perv and need to apologize publicly?
 
 ## Fun & Games - not really tools
 
