@@ -17,7 +17,7 @@ title: ultra situational tools
 
 - [thistothat](https://www.thistothat.com/) - Find the best glue for connecting two different materials.
 - [Celebrity Perv Apology Generator](https://apologygenerator.com/) - You are a Celebrity Perv and need to apologize publicly?
-- [Animated Knots by Grog | Learn how to tie knots with step-by-step animation](https://www.animatedknots.com/)
+- [Animated Knots by Grog](https://www.animatedknots.com/) - Learn how to tie specific knots with step-by-step animation.
 
 ## Entertainment
 
