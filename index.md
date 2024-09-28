@@ -16,15 +16,10 @@ title: ultra situational tools
 ## Crafts
 
 - [This to That (Glue Advice)](https://www.thistothat.com/) - Find the best glue for connecting two different materials.
-- [Animated Knots by Grog | Learn how to tie knots with step-by-step animation](https://www.animatedknots.com/)
 
 ## Arts & Music
 
-- [Radio Garden – Explore live radio by rotating the globe](http://radio.garden)
-- [Music-Map - Find Similar Music](https://www.music-map.com/)
-- [conserve the sound](https://www.conservethesound.de/)
-- [Acapella Extractor](https://www.acapella-extractor.com/) / [Vocal Remover & Instrumental AI Splitter | LALAL.AI](https://www.lalal.ai/)
-- [Sounds of the Forest - Soundmap :: Timber Festival](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
+
 
 ## Video & Streams
 
@@ -34,8 +29,12 @@ title: ultra situational tools
 
 - [Bilingual baby name finder](https://mixedname.com/)
 - [Busy Simulator](https://busysimulator.com/)
+
+## Maps
+
 - [earth :: a global map of wind, weather, and ocean conditions](https://earth.nullschool.net/)
-- [Dad Laugh Button](https://dadlaughbutton.com/)
+- [Radio Garden – Explore live radio by rotating the globe](http://radio.garden)
+- [Sounds of the Forest - Soundmap :: Timber Festival](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 
 ## Fun & Games - not really tools
 
