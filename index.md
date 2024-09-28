@@ -16,6 +16,7 @@ title: ultra situational tools
 ## Life Hacks
 
 - [thistothat](https://www.thistothat.com/) - Find the best glue for connecting two different materials.
+- [Celebrity Perv Apology Generator](https://apologygenerator.com/) - You are a Celebrity Perv and need to apologize publicly?
 
 ## Entertainment
 
