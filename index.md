@@ -24,11 +24,12 @@ title: ultra situational tools
 
 - [Who-Sampled](https://www.whosampled.com/) - Find out where that beat or riff in a song came from—i.e., who sampled whom.
 
-### Movies
+### Movies / TV Shows
 
 - [Where's the jump](https://wheresthejump.com/) - Tells you exactly when jump scares happen in horror movies.
 - [RunPee](https://runpee.com/) - Best times to take bathroom breaks during a movie.
 - [Does the dog die?](https://www.doesthedogdie.com/) - Trigger warnings for movies, TV, books, video games and more!
+- [tii.me](https://tiii.me/) - Find out how long it will take to watch an entire TV series.
 
 ## Vital Information
 
