@@ -35,6 +35,10 @@ title: ultra situational tools
 
 - [Nobody.live](https://nobody.live/) - Find streams and streamers with zero viewers.
 
+### Books
+
+- https://annas-archive.org/ - preserves books, papers, comics, magazines, and more
+
 ## Vital Information
 
 - [howmanypeopleareinspacerightnow](https://www.howmanypeopleareinspacerightnow.com/) - See how many astronauts are currently in space.
