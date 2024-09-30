@@ -37,7 +37,7 @@ title: ultra situational tools
 
 ### Books
 
-- https://annas-archive.org/ - preserves books, papers, comics, magazines, and more
+- [Anna’s Archive](https://annas-archive.org/) - Preserves books, papers, comics, magazines, and more.
 
 ## Vital Information
 
