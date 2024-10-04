@@ -18,6 +18,10 @@ title: ultra situational tools
 - [thistothat](https://www.thistothat.com/) - Find the best glue for connecting two different materials.
 - [Animated Knots by Grog](https://www.animatedknots.com/) - Learn how to tie specific knots with step-by-step animation.
 
+## Expenses & Currencies
+
+- [Spliit](https://spliit.app/) - Spliit is a minimalist application to track and share expenses with your friends and family.
+
 ## Entertainment
 
 ### Music
