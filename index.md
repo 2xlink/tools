@@ -16,11 +16,11 @@ title: ultra situational tools
 ## Crafts
 
 - [thistothat](https://www.thistothat.com/) - Find the best glue for connecting two different materials.
-- [Animated Knots by Grog](https://www.animatedknots.com/) - Learn how to tie specific knots with step-by-step animation.
+- [Animated Knots by Grog](https://www.animatedknots.com/) - Learn how to tie specific knots with step-by-step animations.
 
 ## Expenses & Currencies
 
-- [Spliit](https://spliit.app/) - Spliit is a minimalist application to track and share expenses with your friends and family.
+- [Spliit](https://spliit.app/) - A minimalist application to track and share expenses with your friends and family.
 
 ## Entertainment
 
@@ -32,7 +32,7 @@ title: ultra situational tools
 
 - [Where's the jump](https://wheresthejump.com/) - Tells you exactly when jump scares happen in horror movies.
 - [RunPee](https://runpee.com/) - Best times to take bathroom breaks during a movie.
-- [Does the dog die?](https://www.doesthedogdie.com/) - Trigger warnings for movies, TV, books, video games and more!
+- [Does the dog die?](https://www.doesthedogdie.com/) - Trigger warnings for movies, TV, books, video games and more.
 - [tii.me](https://tiii.me/) - Find out how long it will take to watch an entire TV series.
 
 ### VoD & Streams
@@ -50,20 +50,19 @@ title: ultra situational tools
 
 ## Other
 
-- [Bilingual baby name finder](https://mixedname.com/)
-- [Busy Simulator](https://busysimulator.com/)
+- [Mixedname](https://mixedname.com/) - Bilingual baby name finder.
+- [Busy Simulator](https://busysimulator.com/) - Simulate being busy by playing common messenger sounds.
 - [Celebrity Perv Apology Generator](https://apologygenerator.com/) - You are a Celebrity Perv and need to apologize publicly?
 
 ## Fun & Games - not really tools
 
-- [Quick, Draw!](https://quickdraw.withgoogle.com/) - Draw a terrible doodle and let Google's AI try to guess what it is.
+- [Drawphone](https://drawphone.kumula.me) - Draw something for other people to guess.
+- [Quick, Draw!](https://quickdraw.withgoogle.com/) - Draw something for AI to try to guess what it is.
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - Solve increasingly absurd trolley problems.
-- [Date Night Questions](https://datenightquestions.com/)
-- [Slide Ventura - Ace Ventura sliding door simulator](https://slideventura.com/)
-- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
-- [Short Trip - Alexander Perrin](https://alexanderperrin.com.au/paper/shorttrip/#)
-- [earth :: a global map of wind, weather, and ocean conditions](https://earth.nullschool.net/)
-- [Drawphone](https://drawphone.kumula.me) - Draw something for others to guess.
+- [Date Night Questions](https://datenightquestions.com/) - Questions for friends or partners to spark conversation.
+- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Mesmerizing simulation in the browser.
+- [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/#) - A laidback browser game about transportation.
+- [earth: nullschool](https://earth.nullschool.net/) - A global map of wind, weather, and ocean conditions.
 
 ---
 
