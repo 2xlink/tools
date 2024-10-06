@@ -56,8 +56,8 @@ title: ultra situational tools
 
 ## Fun & Games - not really tools
 
-- [Drawphone](https://drawphone.kumula.me) - Draw something for other people to guess.
-- [Quick, Draw!](https://quickdraw.withgoogle.com/) - Draw something for AI to try to guess what it is.
+- [Drawphone](https://drawphone.kumula.me) - Prompt others to draw and draw their weird prompts.
+- [Quick, Draw!](https://quickdraw.withgoogle.com/) - Draw something for an AI to guess.
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - Solve increasingly absurd trolley problems.
 - [Date Night Questions](https://datenightquestions.com/) - Questions for friends or partners to spark conversation.
 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Mesmerizing simulation in the browser.
