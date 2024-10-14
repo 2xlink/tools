@@ -22,7 +22,10 @@ title: ultra situational tools
 
 - [Spliit](https://spliit.app/) - A minimalist application to track and share expenses with your friends and family.
 
-## Entertainment
+## Events
+- [Rauze](https://www.rauze.de/) - Events in Dresden.
+
+## Media
 
 ### Music
 
@@ -55,6 +58,12 @@ title: ultra situational tools
 - [Celebrity Perv Apology Generator](https://apologygenerator.com/) - You are a Celebrity Perv and need to apologize publicly?
 
 ## Fun & Games - not really tools
+
+### D&D
+
+- [5e tools](https://5e.tools/) - Easily-accessible digital reference for D&D.
+
+### Other
 
 - [Drawphone](https://drawphone.kumula.me) - Prompt others to draw and draw their weird prompts.
 - [Quick, Draw!](https://quickdraw.withgoogle.com/) - Draw something for an AI to guess.
