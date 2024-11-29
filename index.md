@@ -23,7 +23,12 @@ title: ultra situational tools
 - [Spliit](https://spliit.app/) - A minimalist application to track and share expenses with your friends and family.
 
 ## Events
+
 - [Rauze](https://www.rauze.de/) - Events in Dresden.
+ 
+## IT
+
+- [WireGuard AllowedIPs Calculator | Pro Custodibus](https://www.procustodibus.com/blog/2021/03/wireguard-allowedips-calculator/) - Calculate complex AllowedIPs settings for a WireGuard peer.
 
 ## Media
 
