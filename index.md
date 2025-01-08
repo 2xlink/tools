@@ -8,7 +8,7 @@ title: ultra situational tools
 
 - [Bahn-Preiskalender](https://bahn.guru/) - Find the best price for DB train connections.
 - [Bahn Experte](https://bahn.expert/) - See all information about departing trains.
-- [Bahnvorhersage] (https://bahnvorhersage.de/) - Find DB train connection punctuality probability.
+- [Bahnvorhersage](https://bahnvorhersage.de/) - Find DB train connection punctuality probability.
 
 ## Food & Drink
 
