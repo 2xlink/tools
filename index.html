@@ -8,10 +8,18 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
   </style>
   <link rel="stylesheet" href="styling.css" />
 </head>
@@ -22,22 +30,35 @@
 <h2 id="travel">Travel</h2>
 <h3 id="deutsche-bahn-db">Deutsche Bahn (DB)</h3>
 <ul>
-<li><a href="https://bahn.guru/">Bahn-Preiskalender</a> - Find the best price for DB train connections.</li>
-<li><a href="https://bahn.expert/">Bahn Experte</a> - See all information about departing trains.</li>
-<li><a href="https://bahnvorhersage.de/">Bahnvorhersage</a> - Find DB train connection punctuality probability.</li>
+<li><a href="https://bahn.guru/">Bahn-Preiskalender</a> - Find the best
+price for DB train connections.</li>
+<li><a href="https://bahn.expert/">Bahn Experte</a> - See all
+information about departing trains.</li>
+<li><a href="https://bahnvorhersage.de/">Bahnvorhersage</a> - Find DB
+train connection punctuality probability.</li>
+</ul>
+<h3 id="maps">Maps</h3>
+<ul>
+<li><a href="https://gpx.studio/">gpx.studio — the online GPX file
+editor</a> - View, edit, and create GPX files online with advanced route
+planning capabilities.</li>
 </ul>
 <h2 id="food-drink">Food &amp; Drink</h2>
 <ul>
-<li><a href="https://matemonkey.com/">Mate Monkey</a> - Find your favourite Mate in an unknown city.</li>
+<li><a href="https://matemonkey.com/">Mate Monkey</a> - Find your
+favourite Mate in an unknown city.</li>
 </ul>
 <h2 id="crafts">Crafts</h2>
 <ul>
-<li><a href="https://www.thistothat.com/">thistothat</a> - Find the best glue for connecting two different materials.</li>
-<li><a href="https://www.animatedknots.com/">Animated Knots by Grog</a> - Learn how to tie specific knots with step-by-step animations.</li>
+<li><a href="https://www.thistothat.com/">thistothat</a> - Find the best
+glue for connecting two different materials.</li>
+<li><a href="https://www.animatedknots.com/">Animated Knots by Grog</a>
+- Learn how to tie specific knots with step-by-step animations.</li>
 </ul>
 <h2 id="expenses-currencies">Expenses &amp; Currencies</h2>
 <ul>
-<li><a href="https://spliit.app/">Spliit</a> - A minimalist application to track and share expenses with your friends and family.</li>
+<li><a href="https://spliit.app/">Spliit</a> - A minimalist application
+to track and share expenses with your friends and family.</li>
 </ul>
 <h2 id="events">Events</h2>
 <ul>
@@ -45,56 +66,85 @@
 </ul>
 <h2 id="it">IT</h2>
 <ul>
-<li><a href="https://www.procustodibus.com/blog/2021/03/wireguard-allowedips-calculator/">WireGuard AllowedIPs Calculator | Pro Custodibus</a> - Calculate complex AllowedIPs settings for a WireGuard peer.</li>
+<li><a
+href="https://www.procustodibus.com/blog/2021/03/wireguard-allowedips-calculator/">WireGuard
+AllowedIPs Calculator | Pro Custodibus</a> - Calculate complex
+AllowedIPs settings for a WireGuard peer.</li>
 </ul>
 <h2 id="media">Media</h2>
 <h3 id="music">Music</h3>
 <ul>
-<li><a href="https://www.whosampled.com/">Who-Sampled</a> - Find out where that beat or riff in a song came from—i.e., who sampled whom.</li>
+<li><a href="https://www.whosampled.com/">Who-Sampled</a> - Find out
+where that beat or riff in a song came from—i.e., who sampled whom.</li>
 </ul>
 <h3 id="movies-tv-shows">Movies &amp; TV Shows</h3>
 <ul>
-<li><a href="https://wheresthejump.com/">Where’s the jump</a> - Tells you exactly when jump scares happen in horror movies.</li>
-<li><a href="https://runpee.com/">RunPee</a> - Best times to take bathroom breaks during a movie.</li>
-<li><a href="https://www.doesthedogdie.com/">Does the dog die?</a> - Trigger warnings for movies, TV, books, video games and more.</li>
-<li><a href="https://tiii.me/">tii.me</a> - Find out how long it will take to watch an entire TV series.</li>
+<li><a href="https://wheresthejump.com/">Where’s the jump</a> - Tells
+you exactly when jump scares happen in horror movies.</li>
+<li><a href="https://runpee.com/">RunPee</a> - Best times to take
+bathroom breaks during a movie.</li>
+<li><a href="https://www.doesthedogdie.com/">Does the dog die?</a> -
+Trigger warnings for movies, TV, books, video games and more.</li>
+<li><a href="https://tiii.me/">tii.me</a> - Find out how long it will
+take to watch an entire TV series.</li>
 </ul>
 <h3 id="vod-streams">VoD &amp; Streams</h3>
 <ul>
-<li><a href="https://nobody.live/">Nobody.live</a> - Find streams and streamers with zero viewers.</li>
+<li><a href="https://nobody.live/">Nobody.live</a> - Find streams and
+streamers with zero viewers.</li>
 </ul>
 <h3 id="books">Books</h3>
 <ul>
-<li><a href="https://annas-archive.org/">Anna’s Archive</a> - Preserves books, papers, comics, magazines, and more.</li>
+<li><a href="https://annas-archive.org/">Anna’s Archive</a> - Preserves
+books, papers, comics, magazines, and more.</li>
 </ul>
 <h2 id="vital-information">Vital Information</h2>
 <ul>
-<li><a href="https://www.howmanypeopleareinspacerightnow.com/">howmanypeopleareinspacerightnow</a> - See how many astronauts are currently in space.</li>
-<li><a href="https://isitchristmas.com/">is it christmas today?</a> - Find out if it’s Christmas today.</li>
+<li><a
+href="https://www.howmanypeopleareinspacerightnow.com/">howmanypeopleareinspacerightnow</a>
+- See how many astronauts are currently in space.</li>
+<li><a href="https://isitchristmas.com/">is it christmas today?</a> -
+Find out if it’s Christmas today.</li>
 </ul>
 <h2 id="other">Other</h2>
 <ul>
-<li><a href="https://mixedname.com/">Mixedname</a> - Bilingual baby name finder.</li>
-<li><a href="https://busysimulator.com/">Busy Simulator</a> - Simulate being busy by playing common messenger sounds.</li>
-<li><a href="https://apologygenerator.com/">Celebrity Perv Apology Generator</a> - You are a Celebrity Perv and need to apologize publicly?</li>
+<li><a href="https://mixedname.com/">Mixedname</a> - Bilingual baby name
+finder.</li>
+<li><a href="https://busysimulator.com/">Busy Simulator</a> - Simulate
+being busy by playing common messenger sounds.</li>
+<li><a href="https://apologygenerator.com/">Celebrity Perv Apology
+Generator</a> - You are a Celebrity Perv and need to apologize
+publicly?</li>
 </ul>
-<h2 id="fun-games---not-really-tools">Fun &amp; Games - not really tools</h2>
+<h2 id="fun-games---not-really-tools">Fun &amp; Games - not really
+tools</h2>
 <h3 id="dd">D&amp;D</h3>
 <ul>
-<li><a href="https://5e.tools/">5e tools</a> - Easily-accessible digital reference for D&amp;D.</li>
+<li><a href="https://5e.tools/">5e tools</a> - Easily-accessible digital
+reference for D&amp;D.</li>
 </ul>
 <h3 id="other-1">Other</h3>
 <ul>
-<li><a href="https://drawphone.kumula.me">Drawphone</a> - Prompt others to draw and draw their weird prompts.</li>
-<li><a href="https://quickdraw.withgoogle.com/">Quick, Draw!</a> - Draw something for an AI to guess.</li>
-<li><a href="https://neal.fun/absurd-trolley-problems/">Absurd Trolley Problems</a> - Solve increasingly absurd trolley problems.</li>
-<li><a href="https://datenightquestions.com/">Date Night Questions</a> - Questions for friends or partners to spark conversation.</li>
-<li><a href="https://paveldogreat.github.io/WebGL-Fluid-Simulation/">WebGL Fluid Simulation</a> - Mesmerizing simulation in the browser.</li>
-<li><a href="https://alexanderperrin.com.au/paper/shorttrip/#">Short Trip</a> - A laidback browser game about transportation.</li>
-<li><a href="https://earth.nullschool.net/">earth: nullschool</a> - A global map of wind, weather, and ocean conditions.</li>
-<li><a href="https://how-i-experience-web-today.com/">How I experience web today</a> - The final evolution of websites.</li>
+<li><a href="https://drawphone.kumula.me">Drawphone</a> - Prompt others
+to draw and draw their weird prompts.</li>
+<li><a href="https://quickdraw.withgoogle.com/">Quick, Draw!</a> - Draw
+something for an AI to guess.</li>
+<li><a href="https://neal.fun/absurd-trolley-problems/">Absurd Trolley
+Problems</a> - Solve increasingly absurd trolley problems.</li>
+<li><a href="https://datenightquestions.com/">Date Night Questions</a> -
+Questions for friends or partners to spark conversation.</li>
+<li><a
+href="https://paveldogreat.github.io/WebGL-Fluid-Simulation/">WebGL
+Fluid Simulation</a> - Mesmerizing simulation in the browser.</li>
+<li><a href="https://alexanderperrin.com.au/paper/shorttrip/#">Short
+Trip</a> - A laidback browser game about transportation.</li>
+<li><a href="https://earth.nullschool.net/">earth: nullschool</a> - A
+global map of wind, weather, and ocean conditions.</li>
+<li><a href="https://how-i-experience-web-today.com/">How I experience
+web today</a> - The final evolution of websites.</li>
 </ul>
 <hr />
-<p>Add your own: <a href="https://github.com/2xlink/tools">GitHub - 2xlink/tools</a> (create a MR)</p>
+<p>Add your own: <a href="https://github.com/2xlink/tools">GitHub -
+2xlink/tools</a> (create a MR)</p>
 </body>
 </html>
