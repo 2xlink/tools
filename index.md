@@ -34,6 +34,9 @@ title: ultra situational tools
 
 - [WireGuard AllowedIPs Calculator | Pro Custodibus](https://www.procustodibus.com/blog/2021/03/wireguard-allowedips-calculator/) - Calculate complex AllowedIPs settings for a WireGuard peer.
 
+## Math
+- [Unsure Calculator](https://filiph.github.io/unsure/) - Calculate with uncertain values.
+
 ## Media
 
 ### Music
