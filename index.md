@@ -74,7 +74,7 @@ title: ultra situational tools
 ### D&D
 
 - [5e tools](https://5e.tools/) - Huge digital reference for D&D.
-- [Home | Mythical Ink - Maps and other RPG creations](https://mythical.ink/) - Dungeon Generator, Loot Table Generator, (Item|Spell|Monster) List.
+- [Mythical Ink](https://mythical.ink/) - Dungeon Generator, Loot Table Generator, (Item|Spell|Monster) List.
 
 ### Other
 
