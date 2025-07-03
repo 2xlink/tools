@@ -29,7 +29,7 @@ title: ultra situational tools
 ## Events
 
 - [Rauze](https://www.rauze.de/) - Events in Dresden.
-- [terminal.digital](https://terminal.digital/) - Linker Veranstaltungskalender für Dresden
+- [terminal.digital](https://terminal.digital/) - Linker Veranstaltungskalender für Dresden.
  
 ## IT
 
@@ -69,6 +69,7 @@ title: ultra situational tools
 - [Mixedname](https://mixedname.com/) - Bilingual baby name finder.
 - [Busy Simulator](https://busysimulator.com/) - Simulate being busy by playing common messenger sounds.
 - [Celebrity Perv Apology Generator](https://apologygenerator.com/) - You are a Celebrity Perv and need to apologize publicly?
+- [US Wildfire Activity Web Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=df8bcc10430f48878b01c96e907a1fc3) - Find wildfires globally.
 
 ## Fun & Games - not really tools
 
