@@ -59,6 +59,12 @@ title: ultra situational tools
 
 - [Anna’s Archive](https://annas-archive.org/) - Preserves books, papers, comics, magazines, and more.
 
+## D&D
+
+- [5e tools](https://5e.tools/) - Huge digital reference for D&D.
+- [Mythical Ink](https://mythical.ink/) - Dungeon Generator, Loot Table Generator, (Item|Spell|Monster) List.
+- [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Free D&D Map Maker for Dungeons.
+
 ## Vital Information
 
 - [howmanypeopleareinspacerightnow](https://www.howmanypeopleareinspacerightnow.com/) - See how many astronauts are currently in space.
@@ -72,13 +78,6 @@ title: ultra situational tools
 - [US Wildfire Activity Web Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=df8bcc10430f48878b01c96e907a1fc3) - Find wildfires globally.
 
 ## Fun & Games - not really tools
-
-### D&D
-
-- [5e tools](https://5e.tools/) - Huge digital reference for D&D.
-- [Mythical Ink](https://mythical.ink/) - Dungeon Generator, Loot Table Generator, (Item|Spell|Monster) List.
-
-### Other
 
 - [Drawphone](https://drawphone.kumula.me) - Prompt others to draw and draw their weird prompts.
 - [Quick, Draw!](https://quickdraw.withgoogle.com/) - Draw something for an AI to guess.
