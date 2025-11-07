@@ -58,6 +58,7 @@ title: ultra situational tools
 ### Books
 
 - [Anna’s Archive](https://annas-archive.org/) - Preserves books, papers, comics, magazines, and more.
+- [book.sv](https://book.sv/) - Input books you've read and receive recommendations on what to read next.
 
 ## D&D
 
@@ -91,3 +92,4 @@ title: ultra situational tools
 ---
 
 Add your own: [GitHub - 2xlink/tools](https://github.com/2xlink/tools) (create a MR)
+
