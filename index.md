@@ -34,6 +34,7 @@ title: ultra situational tools
 ## IT
 
 - [WireGuard AllowedIPs Calculator | Pro Custodibus](https://www.procustodibus.com/blog/2021/03/wireguard-allowedips-calculator/) - Calculate complex AllowedIPs settings for a WireGuard peer.
+- [DaFont - Download fonts](https://www.dafont.com/) – Find fonts with different licenses.
 
 ## Math
 - [Unsure Calculator](https://filiph.github.io/unsure/) - Calculate with uncertain values.
@@ -92,4 +93,5 @@ title: ultra situational tools
 ---
 
 Add your own: [GitHub - 2xlink/tools](https://github.com/2xlink/tools) (create a MR)
+
 
