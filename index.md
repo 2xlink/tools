@@ -66,6 +66,7 @@ title: ultra situational tools
 - [5e tools](https://5e.tools/) - Huge digital reference for D&D.
 - [Mythical Ink](https://mythical.ink/) - Dungeon Generator, Loot Table Generator, (Item|Spell|Monster) List.
 - [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Free D&D Map Maker for Dungeons.
+- [Initiative Tracker](https://dm.tools/tracker) - Track combat initiative.
 
 ## Vital Information
 
