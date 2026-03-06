@@ -100,3 +100,5 @@ title: ultra situational tools
 ---
 
 Add your own: [GitHub – 2xlink/tools](https://github.com/2xlink/tools) (create a PR)
+
+Disclaimer: I do not own or endorse any content found on websites linked here; all responsibility lies with the respective site owners.
