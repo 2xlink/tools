@@ -12,6 +12,8 @@ title: ultra situational tools
 
 ### Maps
 - [gpx.studio — the online GPX file editor](https://gpx.studio/) – View, edit, and create GPX files online with advanced route planning capabilities.
+- [Noise Map](https://noise-map.com/) – Dashboard to see flight noise in your area.
+- [Light pollution map](https://www.lightpollutionmap.info/)
 
 ## Food & Drink
 
@@ -101,4 +103,4 @@ title: ultra situational tools
 
 Add your own: [GitHub – 2xlink/tools](https://github.com/2xlink/tools) (create a PR)
 
-Disclaimer: I do not own or endorse any content found on websites linked here; all responsibility lies with the respective site owners.
+<sub><sup>Disclaimer: I do not own or endorse any content found on websites linked here; all responsibility lies with the respective site owners.</sup></sub>
