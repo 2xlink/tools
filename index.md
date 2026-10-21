@@ -40,6 +40,7 @@ title: ultra situational tools
 - [Pandoc in the browser](https://pandoc.org/app/) – Convert documents in many file formats.
 - [CUII Liste - Gesperrte Domains](https://cuiiliste.de/domains) – Overview over blocked domains by the CUII.
 - [NAS hard drives - NAS disks](https://www.nasdisks.com/) – Compare statistical data about NAS drives.
+- [Canarytokens] (https://canarytokens.org/) – Create canary tokens which notify you when breached. 
 
 ## Math
 - [Unsure Calculator](https://filiph.github.io/unsure/) – Calculate with uncertain values.
