@@ -14,6 +14,7 @@ title: ultra situational tools
 - [gpx.studio — the online GPX file editor](https://gpx.studio/) – View, edit, and create GPX files online with advanced route planning capabilities.
 - [Noise Map](https://noise-map.com/) – Dashboard to see flight noise in your area.
 - [Light pollution map](https://www.lightpollutionmap.info/)
+- [Shademap – Simulate sun shadows](https://shademap.app/) – Every mountain, building and tree shadow in the world simulated for any date and time.
 
 ## Food & Drink
 
